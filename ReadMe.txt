@@ -1,6 +1,8 @@
 Camel Java8 Router Project
 ==========================
 
+Proof of concept of apache camel. This is a basic processor that downloads random dog images from https://dog.ceo/ every second while running.
+
 To build this project use
 
     mvn install
